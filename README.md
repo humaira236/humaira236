@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Tanjina Humaira Joya.
+# 👩‍💻 Hi, I'm Tanjina Humaira 
 CSE student | Aspiring Data Analysist
 
 ## 🎓 Education
