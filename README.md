@@ -1,4 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Tanjina Humaira Joya.
+CSE student | Aspiring Data Analysist
+
+## 🎓 Education
+- BSc in CSE – Leading University
+
+## 💻 Skills
+- C, Python, JAVA, Flutter
+- Data Structures & Algorithms
+
+## 📂 Projects
+- 🔹 Flood Fill Algorithm (Python)
+- 🔹 Mobile App (Flutter)
+
+## 📧 Contact
+- Email: tanjinahumaira97@gmail.com
+- GitHub: https://github.com/humaira236
 
 <!--
 **humaira236/humaira236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
